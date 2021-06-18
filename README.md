@@ -2,9 +2,6 @@
 
 ![AnJoiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJoiner&show_icons=true&theme=radical)
 
-### 常用编程语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnJoiner&layout=compact)
-
 ### 开源项目 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnJoiner&repo=FFmpegCommand)](https://github.com/AnJoiner/FFmpegCommand)
 
@@ -17,7 +14,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
  radical, tokyonight, onedark, cobalt, dracula
+
+### 常用编程语言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnJoiner&layout=compact)
+
 <a href="https://github.com/Anjoiner/FFmpegCommand">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjoiner&repo=FFmpegCommand" />
 </a>  
