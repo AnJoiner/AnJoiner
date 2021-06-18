@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+![AnJoiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJoiner&show_icons=true&theme=radical)
+
 <!--
+ radical, tokyonight, onedark, cobalt, dracula
 **AnJoiner/AnJoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
