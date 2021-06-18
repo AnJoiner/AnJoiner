@@ -5,7 +5,7 @@
 ### 常用编程语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnJoiner&layout=compact)
 
-### 开源项目 👋
+### 开源项目 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnJoiner&repo=FFmpegCommand)](https://github.com/AnJoiner/FFmpegCommand)
 
 <!--
