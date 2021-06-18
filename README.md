@@ -1,13 +1,13 @@
-### Hi there 👋
+### 茶醉何必酒，书香何需花 👋
 
 ![AnJoiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJoiner&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnJoiner&layout=compact&theme=radical)
+
+### 开源项目 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnJoiner&repo=FFmpegCommand)](https://github.com/AnJoiner/FFmpegCommand)
+
 
 <!--
- radical, tokyonight, onedark, cobalt, dracula
-**AnJoiner/AnJoiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ radical, tokyonight, onedark, cobalt, dracula
+<a href="https://github.com/Anjoiner/FFmpegCommand">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anjoiner&repo=FFmpegCommand" />
+</a>  
 -->
