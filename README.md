@@ -1,11 +1,12 @@
 ### 茶醉何必酒，书香何需花 👋
 
 ![AnJoiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnJoiner&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnJoiner&layout=compact&theme=radical)
+
+### 常用编程语言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnJoiner&layout=compact)
 
 ### 开源项目 👋
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnJoiner&repo=FFmpegCommand)](https://github.com/AnJoiner/FFmpegCommand)
-
 
 <!--
 - 🔭 I’m currently working on ...
